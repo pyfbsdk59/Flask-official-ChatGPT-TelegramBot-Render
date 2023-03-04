@@ -1,11 +1,11 @@
-# Flask-ChatGPT-TelegramBot-Render
+# Flask-official-ChatGPT-TelegramBot-Render
 # 一個Flask ChatGPT TelegramBot快速建置於平台Render。
 
 
-## [Vercel版本部屬](https://github.com/pyfbsdk59/Flask-ChatGPT-TelegramBot-Vercel)
+## [Vercel GPT3版本部屬](https://github.com/pyfbsdk59/Flask-ChatGPT-TelegramBot-Vercel)
 
-### [English](https://github.com/pyfbsdk59/Flask-ChatGPT-TelegramBot-Render/blob/main/README_en.md)
-### [日本語](https://github.com/pyfbsdk59/Flask-ChatGPT-TelegramBot-Render/blob/main/README_jp.md)
+### [English](https://github.com/pyfbsdk59/Flask-official-ChatGPT-TelegramBot-Render/blob/main/README_en.md)
+### [日本語](https://github.com/pyfbsdk59/Flask-official-ChatGPT-TelegramBot-Render/blob/main/README_jp.md)
 
 
 #### 1. 本專案參考了以下前輩和官方的方案改成製作，只針對剛學習Flask的朋友來佈置TelegramBot在Render上：
